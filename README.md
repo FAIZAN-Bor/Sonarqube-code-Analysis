@@ -99,7 +99,3 @@ Open http://localhost:9000/dashboard?id=json-server
 | `README.md` | This file |
 
 ---
-
-## Students
-- [Add your name and roll number here]
-- [Add partner's name and roll number here]
