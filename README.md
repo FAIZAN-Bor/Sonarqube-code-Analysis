@@ -1,4 +1,4 @@
-# SRE Assignment 1 - SonarQube Code Smell Analysis
+# SonarQube Code Smell Analysis
 
 ## Project Information
 - **Repository Analyzed**: json-server
